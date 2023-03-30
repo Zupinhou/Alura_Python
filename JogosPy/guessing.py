@@ -4,7 +4,7 @@ from pyfiglet import figlet_format
 
 def play():
 
-    print(figlet_format('sortition', font='standard'))
+    print(figlet_format('SORTEIO', font='standard'))
 
     sortition = random.randrange(0, 101)
 
